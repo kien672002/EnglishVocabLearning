@@ -1,14 +1,284 @@
 Vocabulary	Defination	Use	Occurences	Accurates
-absolute	total and complete	‘You're wrong,’ she said with absolute certainty.	2	1
-absent	not in a place because of illness, etc.	He was absent from work for two weeks.	1	0
-absence	[uncountable, countable] the fact of somebody being away from a place where they are usually expected to be; the occasion or period of time when somebody is away	in somebody's absence The decision was made in my absence (= while I was not there)	2	1
-abroad	in or to a foreign country	to go/travel/live/study abroad	2	1
-above	at or to a higher place	Put it on the shelf above.	2	1
-about	a little more or less than; a little before or after	It costs about $10	1	0
-abortion	[uncountable] the deliberate ending of a pregnancy at an early stage	a woman’s right to abortion	2	1
-abolish	abolish something to officially end a law, a system or an institution	This tax should be abolished.	6	5
-able	able to do something	We're still able to get visas to come and go from Thailand.	7	6
-ability	ability to do something the fact that somebody/something is able to do something	People with the disease may lose their ability to communicate.	7	6
-ambassador	an official who lives in a foreign country as the senior representative there of their own country	the British Ambassador to Italy/in Rome	7	5
-ambitious	determined to be successful, rich, powerful, etc.	They were very ambitious for their children (= they wanted them to be successful).	6	5
-abandon	to leave somebody,especially somebody you are responsible for, with no intention of returning	abandon somebody The baby had been abandoned by its mother.	11	10
+incineration	the act of burning something, especially waste material, until it is completely destroyed; burning	Most of the waste is incinerated.	1	0
+penance	something that you have to do even though you do not like doing it; or sám hối	"She kneeled at her mother's feet in penance.
+She regards living in New York as a penance; she hates big cities."	1	0
+emerge	to move out of or away from something and become possible to see;  to start to exist; to become known	"she finally emerged from her room at noon.
+Problems with this drug are now beginning to emerge."	1	0
+reluctant	hesitating before doing something because you do not want to do it or because you are not sure that it is the right thing to do	They nodded in reluctant agreement.	1	0
+inflict	to make somebody/something suffer something unpleasant	Most of Ian’s problems are self-inflicted.	1	0
+practitioner	a person who works in a profession, especially medicine or law; a person who regularly does a particular activity, especially one that requires skill	"dental practitioners;
+one of the greatest practitioners of science fiction"	1	0
+intervene	to become involved in a situation in order to improve or help it; to interrupt somebody when they are speaking in order to say something	"She might have been killed if the neighbours hadn't intervened.
+But,’ she intervened, ‘what about the others?’"	1	0
+thermometer	an instrument used for measuring the temperature of the air, a person’s body, etc.	a thermometer reading	1	0
+buoy	an object which floats on the sea or a river to mark the places where it is dangerous and where it is safe for boats to go; cái phao	lifebuoy	1	0
+refine	to make a substance pure by taking other substances out of it	The process of refining oil produces several useful chemicals.	1	0
+reservoir	a natural or artificial lake where water is stored before it is taken by pipes to houses, etc.	They got up early and went for a swim in the reservoir.	1	0
+fluctuate	to change frequently in size, amount, quality, etc., especially from one extreme to another	My weight fluctuated wildly depending on how much I ate.	2	0
+subside	to become calmer, quieter or less intense;  to go back to a normal level	I took an aspirin and the pain gradually subsided.	1	0
+surge	rush; upsurge;  a sudden increase in the amount or number of something	A surge of people poured through the gates.	1	0
+fizzle out	to gradually become less successful and end in a disappointing way	The threatened revolt just fizzled out.	1	0
+insulation	the act of protecting something with a material that prevents heat, sound, electricity, etc. from passing through; the materials used for this	Better insulation of your home will help to reduce heating bills.	1	0
+conduct (noun)	a person’s behaviour in a particular place or in a particular situation;	"code of conduct;
+Any allegation of criminal conduct has to be taken seriously."	1	0
+province	one of the areas that some countries are divided into with its own local government; (tỉnh)	the provinces of Canada;	1	0
+culinary	​connected with cooking or food	culinary skills	2	1
+cultivate	_____ something to prepare and use land for growing plants or crops; (grow) to grow plants or crops	"The land here has been intensively cultivated for generations;
+The people cultivate mainly rice and beans."	1	0
+fragrant	having a pleasant smell	"fragrant herbs/flowers/oils;
+The air was fragrant with scents from the sea and the hills."	3	1
+aromatic	having a pleasant smell that is easy to notice; fragrant	The plant is strongly aromatic.	1	0
+versatile	able to do many different things	"Eggs are easy to cook and are an extremely versatile food.
+He's a versatile actor who has played a wide variety of parts."	1	0
+sophistication	experience of the world and knowledge of fashion, culture and other things that people think are socially important; ​the ability to understand difficult or complicated ideas	He felt people were contemptuous of his lack of sophistication.	1	0
+regime	"a method or system of government, especially one that has not been elected in a fair way;
+​a method or system of organizing or managing something (scheme)"	"an oppressive/brutal regime;
+Our tax regime is one of the most favourable in Europe."	1	0
+inflate	to fill something or become filled with gas or air; to make something appear to be more important or impressive than it really is;	The principal effect of the demand for new houses was to inflate prices.	1	0
+virtually	almost or very nearly, so that any slight difference is not important	Virtually all students will be exempt from the tax.	2	1
+acute	very serious or severe; intelligent and quick to notice and understand things	"There is an acute shortage of water.
+the world’s acute environmental problems
+He is an acute observer of the social scene."	2	1
+leverage	_____ something to get as much advantage or profit as possible from something that you have	"This system will help you to leverage your time so that you get more done.;
+leverage retrieval from a large corpus of documents"	1	0
+insights	an understanding of what something is like; the ability to see and understand the truth about people or situations;	There are many valuable insights in her book.	2	1
+witness	a person who sees something happen and is able to describe it to other people	"witness statement;
+Police have appealed for witnesses to the accident."	1	0
+whereas	used to compare or contrast two facts	Some of the studies show positive results, whereas others do not.	2	1
+wealth	bill gates, warrent buffet, elon musk	"the desire to gain wealth and power;
+The purpose of industry is to create wealth."	1	0
+wage	a regular amount of money that you earn, usually every week or every month, for work or services; salary;	They are prepared to work for wages well below the legal minimum.	1	0
+vital	necessary or essential; connected with or necessary;	Reading is of vital importance in language learning.;	1	0
+urge	to advise or try hard to persuade somebody to do something	"If you ever get the chance to visit this place, I strongly urge you to do so.;
+The NFU is urging its members to support the proposed scheme;"	2	1
+delegate	a person who is chosen or elected to represent the views of a group of people ;a person who attends a conference; to give part of your work, power or authority to somebody	"Congress delegates rejected the proposals.;
+The conference was attended by delegates from 56 countries.
+Some managers find it difficult to delegate."	3	1
+concessions	[countable, uncountable] something that you allow or do, or allow somebody to have, in order to end an argument or to make a situation less difficult; the act of conceding	"The firm will be forced to make concessions if it wants to avoid a strike.;]
+She made no concession to his age; she expected him to work as hard as she did."	2	0
+presumably	used to say that you think that something is probably true; guessing; maybe; có lẽ	"Presumably this is where the accident happened.;
+You'll be taking the car, presumably?"	1	0
+venue	a place where people meet for an organized event, for example a concert, sporting event or conference;  place ;	The band will be playing at 20 different venues on their UK tour;	2	1
+opt	to choose to take or not to take a particular course of action; choose;	"Many workers opted to leave their jobs rather than take a pay cut.
+ After graduating she opted for a career in music."	2	1
+convene	____ something to arrange for people to come together for a formal meeting;	A Board of Inquiry was convened immediately after the accident.	2	1
+conference	a large official meeting, usually lasting for a few days, at which people with the same work or interests come together to discuss their views;	"The conference will be held in Glasgow. 
+They agreed to convene a peace conference by mid-November."	1	0
+outgrown	"to grow too big to be able to wear or fit into something;
+to grow taller, larger or more quickly than another person"	"She's already outgrown her school uniform.
+The company has outgrown its offices."	1	0
+unconscious	"in a state like sleep because of an injury or illness, and not able to use your senses ;
+existing or happening without you realizing or being aware; not deliberate"	"She was knocked unconscious.;
+It was a powerful sedative that would render them unconscious within minutes."	1	0
+tunnel	a passage built underground, for example to allow a road or railway to go through a hill, under a river, etc.	A gust of wind passed through the tunnel.;	2	1
+tidy	arranged neatly and with everything in order	She keeps her flat very tidy.;	1	0
+though	despite the fact that; used to add a fact or an opinion that makes the previous statement less strong or less important	"He'll probably say no, though it's worth asking.
+Anne was fond of Tim, though he often annoyed her."	1	0
+therapy	[uncountable, countable] the treatment of a physical problem or an illness	"He is receiving therapy for cancer.;
+They recommend exercise therapy for patients with chronic back pain."	1	0
+theatre	a building in which films are shown; a building or an outdoor area where plays and similar types of entertainment are performed	She left the theatre a few minutes after the curtain fell;	2	1
+assuage	____ something to make an unpleasant feeling less severe	"His reply did little to assuage my suspicions.
+to assuage your guilt/fears"	1	0
+preposterous	completely unreasonable, especially in a way that shocks or annoys you;  outrageous;	"The band were famous for their preposterous clothes and haircuts.
+It’s preposterous to suggest that everything was her fault!"	2	1
+tally	(___)(with something) to be the same as or to match another person’s account of something, another set of figures, etc.____something (up) to calculate the total number, cost, etc. of something	"Her report of what happened tallied exactly with the story of another witness
+When we tallied up the cost of moving, we decided against it."	1	0
+forthcoming	going to happen, be published, etc. very soon; ready or made available when needed	"Financial support was not forthcoming;
+the band’s forthcoming UK tour"	3	1
+tent	a shelter made of a large sheet of canvas, nylon, etc. that is supported by poles and ropes fixed to the ground, and is used especially for camping	"Food will be served in the hospitality tent (= for example at an outdoor show)
+Everyone was sleeping outside in tents."	1	0
+symptom	a change in your body or mind that shows that you are not healthy; a sign that something exists, especially something bad	"Symptoms include a headache and sore throat.
+The rise in inflation was just one symptom of the poor state of the economy."	2	1
+sweep	to clean a room, surface, etc. using a broom (= a type of brush on a long handle); to remove something from a surface using a brush, your hand, etc.	"Don't just stand around—grab a broom and sweep u
+She swept the crumbs into the wastebasket."	2	1
+surgery	medical treatment of injuries or diseases that involves cutting open a person’s body and often removing or replacing some parts; the branch of medicine connected with this treatment	He will require surgery on his left knee.	1	0
+substance	a type of solid, liquid or gas that has particular qualities;  the most important or main part of something	"Some frogs produce toxic substances in their skin.
+Love and guilt form the substance of his new book."	2	1
+stuff	used to refer to a substance, material, group of objects, etc. when you do not know the name, when the name is not important or when it is obvious what you are talking about;	I don't know how you can eat that stuff!; This hot sauce is good stuff.	2	1
+slip	to slide a short distance by accident so that you fall or nearly fall; to slide out of position or out of your hand	"As I ran up the stairs, my foot slipped and I fell.
+She was careful not to let her control slip."	2	1
+sincere	genuine; showing what you really think or feel;  saying only what you really think or feel	We offer our sincere sympathy to the two families.his refusal to be sincere about his feelings	4	3
+silly	showing a lack of thought, understanding, or judgement; foolish;	‘I can walk home.’ ‘Don't be silly—it's much too far!’	1	0
+shame	used to say that something is a cause for feeling sad or disappointed; pity; the feelings of being sad, embarrassed or guilty that you have when you know that something you have done is wrong or stupid	"It's a shame to see her wasting her talent like this.
+It seems such a shame to throw perfectly good food away."	2	1
+severe	extremely bad or serious; punishing somebody in an extreme way when they break a particular set of rules; ​not kind or showing sympathy; not smiling or showing approval; extremely difficult and requiring a lot of skill or ability	a severe shortage of qualified staff; She fixed them with a very severe look.; The marathon is a severe test of stamina.	1	0
+settle	to put an end to an argument or a disagreement;  to decide or arrange something finally;	to put an end to an argument or a disagreement;  It's all settled—we're leaving on the nine o'clock plane.	3	2
+servant	a person who works in another person’s house, and cooks, cleans, etc. for them; osin;	They treat their mother like a servant.	5	4
+sculpture	a work of art that is a solid figure or object made by carving or shaping wood, stone, clay, metal, etc.	He collects modern sculpture; The moonlight sculpture	2	1
+scheme	a plan or system for doing or organizing something;	Under the new scheme only successful schools will be given extra funding; They hatched a scheme to rob a Monte Carlo casino.	2	1
+satellite	an electronic device that is sent into space and moves around the earth or another planet. It is used for communicating by radio, television, etc. and for gathering information; a natural object that moves around a larger natural object in space	They could track the tagged sea turtles by satellite.	2	1
+rural	connected with or like the countryside; not urban;	Belarus is predominantly rural.	2	1
+rugby	a game played by two teams of 13 or 15 players, using an oval ball which may be kicked or carried. Teams try to put the ball over the other team’s line.	Kids from six years old play mini rugby at the club.	1	0
+rough	having a surface that is not even or regular; not exact; not including all details; not gentle or careful; violent	The skin on her hands was hard and rough.	2	1
+revolution	an attempt, by a large number of people, to change the government of a country, especially by violent action; a great change in conditions, ways of working, beliefs, etc. that affects large numbers of people	the outbreak of the French Revolution in 1789	3	2
+revise	revise something to change your opinions or plans, for example because of something you have learned;  to change something, such as a book or an estimate, in order to correct or improve it	The government may need to revise its policy in the light of this report.; This revised version of his play has only two acts.	3	2
+retain	to keep something; to continue to have something;  preserve/; to continue to hold or contain something	He struggled to retain control of the situation.;	3	2
+resist	to refuse to accept something and try to stop it from happening; to fight back when attacked; to use force to stop something from happening	She was charged with resisting arrest.; They are determined to resist pressure to change the law.	4	2
+reserve	a supply of something that is available to be used in the future or when it is needed;dự trữ;	He discovered unexpected reserves of strength.; The country has the world's largest reserves of coal.	2	1
+rescue	to save somebody/something from a dangerous or harmful situation	The woman was rescued from her burning home by firefighters.	2	1
+reputation	the opinion that people have about what somebody/something is like, based on what has happened in the past; danh tiếng;	The weather in England is living up to its reputation;  She soon established a reputation as a first-class cook.	3	0
+rely on	to trust or have faith in somebody/something; phụ thuộc	The charity relies solely on donations from the public.I couldn't rely on John for information.	2	1
+religion	the belief in the existence of a god or gods, and the activities that are connected with the worship of them, or in the teachings of a spiritual leader	Is there always a conflict between science and religion?; He believed in God but had no interest in organized religion.	1	0
+relief	the feeling of happiness that you have when something unpleasant stops or does not happen	News of their safety came as a great relief. It was a relief to her to realize that she was not the only one with this problem.	3	1
+reliable	that can be trusted to do something well; that you can rely on; that is likely to be correct or true	We are looking for someone who is reliable and hard-working.	3	2
+relatively	​to a fairly large degree, especially in comparison to something else	I found the test relatively easy.	2	1
+recipe	a set of instructions that tells you how to cook something and the ingredients (= items of food) you need for it;  a method or an idea that seems likely to have a particular result	This recipe calls for 120g of butter.	3	2
+receipt	a piece of paper or an electronic document that shows that goods or services have been paid for; biên lai;	They have to submit receipts to support all expenditure.	2	1
+pupil	a person who is being taught, especially a child in a school; a person who is taught artistic, musical, etc. skills by an expert	The painting is by a pupil of Rembrandt. How many pupils does the school have?	3	2
+protest	​the expression of strong dislike of or opposition to something; a statement or an action that shows this	The riot began as a peaceful protest.; violent/anti-war protests	4	2
+prospect	the possibility that something will happen; tiềm năng;an idea of what might or will happen in the future	It's a move that raises the prospect of a takeover battle for the airline.	2	1
+propose	to suggest a plan, an idea, etc. for people to think about and decide on; ) to intend to do something	Other services will not be affected by the proposed legislation.	2	0
+proper	right, appropriate or correct; according to the rules; socially and morally acceptable	Nothing is in its proper place; He is always perfectly proper in his behaviour.	5	4
+preserve	to keep a particular quality, feature, etc.; to make sure that something is kept; to keep somebody/something alive, or safe from harm or danger	The society was set up to preserve endangered species from extinction.	3	2
+praise	words that show that you approve of and admire somebody/something; the expression of thanks to or respect for God	joyous singing and praise to God	5	4
+poverty	the state of being poor	He was born into poverty and political chaos.	3	2
+possess	i'm afraid this is the only suitcase I possess.	to have or own something	5	4
+pile	heap; a number of things that have been placed on top of each other; a lot of something	He walked out leaving a pile of debt behind him.	4	3
+persuade	to make somebody do something by giving them good reasons for doing it;  to make somebody believe that something is true;  convince	I didn't want to go, but my friends persuaded me into it.	3	1
+pension	an amount of money paid regularly by a government or company to somebody who has retired from work; lương hưu	to receive a retirement pension	7	5
+parliament	the group of people who are elected to make and change the laws of a country	The German parliament is called the ‘Bundestag’.; to win a seat in Parliament	3	2
+palace	the official home of a king, queen, president, etc.	Buckingham Palace	4	3
+pace	the speed at which something happens; the speed at which somebody/something walks, runs or moves	Congestion frequently reduces traffic to walking pace.	2	1
+owe	to feel that you ought to do something for somebody or give them something, especially because they have done something for you	He owes more money than he can afford to pay.	2	1
+oven	the part of a cooker that is like a box with a door on the front, in which food is cooked or heated	Use oven mitts to move hot food.	2	1
+ordinary	not unusual or different in any way; having no unusual or interesting features;	ordinary people like you and me	4	3
+opponent	a person that you are playing or fighting against in a game, competition, argument, etc.	a worthy/formidable/fierce/tough/staunch opponent	3	2
+offence	an illegal act; xúc phạm; the feeling of being upset or angry at something that somebody has said or done	He has been arrested for a serious offence.	2	1
+occasion	a special event, ceremony or celebration;  a reason or cause; a particular time when something happens	I've met him on several occasions.	3	1
+obligation	the state of being forced to do something because it is your duty, or because of a law, etc.	I don't want people coming to see me out of a sense of obligation.	3	2
+obey	to do what you are told or expected to do; vâng lời mù quáng	He has turned into an efficient soldier, blindly obeying orders	5	4
+numerous	existing in large numbers	He has been late on numerous occasions.	1	0
+nevertheless	despite something that you have just mentioned; tuy thế mà	There is little chance that we will succeed in changing the law. Nevertheless, it is important that we try.	4	3
+neat	tidy and in order; carefully done or arranged; lành nghề	You've got very neat handwriting!	4	3
+narrative	a description of events	a collection of personal narratives	4	1
+moral	connected with principles of right and wrong behaviour; based on your own sense of what is right and fair, not on legal rights or duties	a moral issue/dilemmal; a moral issue/dilemma	3	2
+manner	the way that somebody behaves towards other people; the way that something is done or happens	to have good/bad manners	4	3
+lorry	a large vehicle for carrying heavy loads by road	Emergency food supplies were brought in by lorry.	6	5
+leisure	time when you are not working or studying; free time	Make the most of your leisure time!	2	1
+lean	to bend or move from a straight position to a sloping position;  to rest on or against something for support	A man was leaning out of the window.	3	2
+keen	liking somebody/something very much; wanting to do something or wanting something to happen very much; enthusiastic about an activity or idea, etc.	a keen sportsman/gardener	3	1
+journalist	a person whose job is to collect and write news stories for newspapers, magazines, radio, television or online news sites	a freelance journalist	4	3
+journal	a written record of the things you do, see, etc. every day; a newspaper or magazine that deals with a particular subject or profession	Her journal entry for that day describes a thunderstorm.	5	4
+jam	a thick sweet substance made by boiling fruit with sugar, often sold in jars and spread on bread	strawberry jam	2	1
+investigate	to carefully examine the facts of a situation, an event, a crime, etc. to find out the truth about it or how it happened	the senior investigating officer	2	1
+interpret	to perform a piece of music, a role in a play, etc. in a way that shows your feelings about its meaning;  to explain the meaning of something; to translate one language into another as it is spoken	These results must be interpreted cautiously.	6	5
+intense	very great; very strong	We were all suffering in the intense heat.	2	0
+intend	to have a plan, result or purpose in your mind when you do something	I never intended to hurt you.	4	3
+insurance	an arrangement with a company in which you pay them regular amounts of money and they agree to pay the costs, for example, if you die or are ill, or if you lose or damage something	Private insurance accounts for about 35 per cent of healthcare in the US.	3	2
+institution	a large important organization that has a particular purpose, for example a university or bank; a hospital, prison or other building where people are made to stay and are cared for	The system is targeted mainly at academic and research institutions.	2	1
+institute	an organization that has a particular purpose, especially one that is connected with education or a particular profession; the building used by this organization	The course is offered at six colleges and institutes of higher education.	5	4
+insist	to demand that something happen or that somebody agree to do something	I didn't really want to go but he insisted.	5	1
+initiative	a new plan for dealing with a particular problem or for achieving a particular purpose	Most policy initiatives come from the White House.	2	1
+ingredient	one of the things from which something is made, especially one of the foods that are used together to make a particular dish	The only active ingredient in this medicine is aspirin.	2	1
+infection	the act or process of causing or getting a disease; an illness that is caused by bacteria or a virus and that affects one part of the body	Bacterial infection of the wound may occur.	4	3
+indeed	used after very and an adjective or adverb to emphasize a statement, description, etc.	I was very sad indeed to hear of your father's death.	4	3
+incident	something that happens, especially something unusual or unpleasant; a serious or violent event, such as a crime, an accident or an attack	His bad behaviour was just an isolated incident.	5	3
+imply	to suggest that something is true or that you feel or think something, without saying so directly;  to make it seem likely that something is true or exists	I disliked the implied criticism in his voice.	7	5
+immigrant	a person who has come to live permanently in a different country from the one they were born in	The program protects undocumented immigrants who came to the US as children.	9	3
+immediate	nearest in relationship or rank; next to or very close;without delay	to take immediate action	4	3
+illustrate	to use pictures, photographs, diagrams, etc. in a book, etc; to make the meaning of something clearer by using examples, pictures, etc.	She illustrated her own books.	3	1
+humour	the quality in something that makes it funny; the ability to laugh at things that are funny; the state of your feelings or mind at a particular time	to be in the best of humours	3	2
+hollow	having a hole or empty  inside	a hollow metal cylinder; He won something of a hollow victory when his opponent was forced to withdraw with a serious injury.	3	2
+hobby	an activity that you do for pleasure when you are not working	Her hobbies include swimming and gardening.	8	5
+hire	to give somebody a job;  to pay money to borrow something for a short time	We hired a car from a local firm.	5	4
+hesitate	to be slow to speak or act because you feel uncertain or nervous	he hesitated before replying.	5	4
+heel	the back part of the foot below the ankle	She took a potato from the fire and sat back on her heels.	4	3
+grant	to agree to give somebody what they ask for, especially formal or legal permission to do something	The court granted him leave to appeal.	5	3
+grain	the small hard seeds of food plants such as wheat, rice, etc.; a single seed of such a plant	a few grains of rice	5	4
+govern	to legally control a country or its people and be responsible for introducing new laws, organizing public services, etc.	He accused the opposition party of being unfit to govern.	6	5
+genres	a particular type or style of literature, art, film or music that you can recognize because of its special features	literary/musical genres	6	5
+generous	giving or willing to give freely; given freely	He was generous to his friends and family.	7	3
+furniture	objects that can be moved, such as tables, chairs and beds, that are put into a house or an office to make it suitable for living or working in	a piece of furniture	4	3
+fur	the soft thick mass of hair that grows on the body of some animals; a piece of clothing, especially a coat or jacket, made of real or artificial fur	a fur coat	7	6
+fund	an amount of money that has been saved or has been made available for a particular purpose	the company’s pension fund	5	4
+frighten	to make somebody suddenly feel afraid	She doesn't frighten easily (= it is not easy to make her afraid).	4	2
+fork	a tool with a handle and three or four sharp points (called prongs), used for picking up and eating food	with a fork Mash the mixture with a fork.	6	5
+folk	a friendly way of addressing more than one person; people in general	I am going to visit my folks at the weekend.	8	5
+flour	a fine white or brown powder made from grain, especially wheat, and used in cooking for making bread, cakes, etc.	Sift the flour and salt into a bowl.	7	6
+fence	a structure made of wood or wire supported with posts that is put between two areas of land as a boundary, or around a garden, field, etc. to keep animals in, or to keep people and animals out	Security guards with dogs patrolled the perimeter fence.	3	2
+fellow	used to describe somebody who is the same as you in some way, or in the same situation	Thousands of their fellow countrymen are dead.	8	7
+fascinating	extremely interesting and attractive	Her letters offer a fascinating insight into early Victorian family life.	2	1
+faith	trust in somebody’s ability or knowledge; trust that somebody/something will do what has been promised	We've lost faith in the government's promises.	4	3
+facility	buildings, services, equipment, etc. that are provided for a particular purpose	All rooms have private facilities	2	1
+extraordinary	unexpected, surprising or strange; not normal or ordinary; greater or better than usual	What an extraordinary thing to say!	5	4
+express	to show or make known a feeling, an opinion, etc. by words, looks or actions; to speak, write or communicate in some other way what you think or feel	Teenagers often have difficulty expressing themselves.	7	6
+expose	to show something that is usually hidden;  to tell the true facts about a person or a situation, and show them/it to be dishonest, illegal, etc.	He threatened to expose the racism that existed within the police force.	8	7
+exhibition	a collection of things, for example works of art, that are shown to the public	an art exhibition	4	3
+ethical	connected with beliefs and principles about what is right and wrong; morally correct or acceptable	it is ethical to do something (Is it ethical to keep animals in zoos?)	6	1
+estate	an area of land with a lot of houses or factories of the same type on it; a large area of land, usually in the country, that is owned by one person or family	real-estate	3	2
+enthusiasm	a strong feeling of excitement and interest in something and a desire to become involved in it; something that you are very interested in and spend a lot of time doing	I don't mind,’ she said, without much enthusiasm.	3	1
+enquiry	an official process to find out the cause of something or to find out information about something	a murder enquiry	5	2
+enormous	extremely large	an enormous amount of time	6	5
+emphasis	special importance that is given to something	to put/lay/place emphasis on something	3	2
+crowd	a particular group of people; a large number of people gathered together in a public place, for example in the streets or at a sports game;	Bob introduced her to some of the usual crowd	3	2
+elsewhere	​in, at or to another place or other places	The site contains information not found elsewhere.	6	3
+dishonest	​not honest; intending to trick people	She has been dishonest with voters.	5	4
+desperate	feeling or showing that you have little hope and are ready to do anything without worrying about danger to yourself or others	The prisoners grew increasingly desperate.	4	3
+delight	a feeling of great pleasure; joy;	This guitar is a delight to play.	3	2
+deliberate	done on purpose rather than by accident	The speech was a deliberate attempt to embarrass the government.	4	1
+decline	to become smaller, fewer, weaker, etc.; to refuse politely to accept or to do something	to decline sharply/significantly/dramatically	3	2
+crucial	extremely important, because it will affect other things	Private security cameras can prove crucial in some investigations.	3	1
+criterion	a standard or principle by which something is judged, or with the help of which a decision is made	one of the criterion	4	3
+cottage	a small house, especially in the count	James lived in a charming country cottage with roses around the door.	4	3
+corporate	connected with a large business company	The BBC is a corporate organization.	5	4
+convince	to make somebody/yourself believe that something is true	Are the prime minister's assurances enough to convince the public?	8	7
+continent	any of the world's main continuous expanses of land	the mainland of Europe as distinct from the British Isles.	8	6
+contemporary	belonging to the same time;  belonging to the present time;	He was contemporary with the dramatist Congreve.	7	5
+conservative	opposed to great or sudden social change; showing that you prefer traditional styles and values	music which is accessible to an audience with extremely conservative tastes	5	3
+consequence	a result of something that has happened, especially an unpleasant result	The child was born deformed in consequence of an injury to the mother.	6	5
+conscious	aware of something; noticing something; able to use your senses and mental powers to understand what is happening	She's very conscious of the problems involved.	10	8
+conduct	to organize and/or do a particular activity	to conduct a survey/poll/study/review	7	4
+concern	to affect somebody/something; to involve somebody/something	Don't interfere in what doesn't concern you.	4	2
+concentrate	to give all your attention to something and not think about anything else	I struggled to concentrate on my job because I was worried about my son.	5	4
+circumstance	the conditions and facts that are connected with and affect a situation, an event or an action	Police said there were no suspicious circumstances surrounding the boy's death.	5	4
+campus	the buildings of a university or college and the land around them	The university has campuses in Cairns and Brisbane.	9	8
+campaign	a series of planned activities that are intended to achieve a particular social, commercial or political aim	an anti-smoking campaign	3	1
+bond	something that forms a connection between people or groups, such as a feeling of friendship or shared ideas and experiences	the bond that links us	5	4
+bacteria	the simplest and smallest forms of life, exist in large numbers in air, water and soil, and also in living and dead creatures and plants, and are often a cause of disease.	Neither chilling nor freezing kills all bacteria.	6	5
+awful	used to emphasize something, especially that there is a large amount or too much of something; very bad or unpleasant; that shocks people very much	It's going to cost an awful lot of money.	6	5
+assess	to make a judgement about the nature or quality of somebody/something	Accurately assessing environmental impacts is very complex.	12	11
+aspect	a particular part or feature of a situation, an idea, a problem, etc.; a way in which it may be considered; the appearance of a place, a situation or a person	The exhibition will focus on various aspects of life and culture in the Middle East.	13	8
+ashamed	feeling shame or feeling embarrassed about somebody/something or because of something you have done	She was deeply ashamed of her behaviour at the party.	7	6
+artificial	made or produced to copy something natural; not real	artificial lighting/light	7	6
+arrest	to make somebody notice something and pay attention to it; the person is taken to a police station and kept there because the police believe they may be guilty of a crime	A local man has since been arrested on suspicion of murder.	7	6
+armed	involving the use of weapons; carrying a weapon, especially a gun; knowing something or carrying something that you need in order to help you to perform a task	He was armed with all the facts; an armed robbery	8	7
+approval	the feeling that somebody/something is good or acceptable; a positive opinion of somebody/something	Do the plans meet with your approval?	8	7
+appropriate	suitable, acceptable or correct for the particular circumstances	Is now an appropriate time to make a speech?	9	8
+appeal	a deeply felt request for help or information that is needed immediately, especially one made by a charity or by the police; a quality that makes somebody/something attractive or interesting	He made an emotional appeal to voters.	10	8
+apparent	easy to see or understand; that seems to be real or true but may not be	Then, for no apparent reason, the train suddenly stopped.;	6	5
+apart	separated by a distance, of space or time;  into pieces; not together; separate or separately	The two houses stood 500 metres apart.	2	1
+anxious	feeling worried or nervous	The bus was late and Sue began to get anxious.	5	4
+annual	happening or done once every year	an annual meeting/event/report/conference	7	6
+annoy	to make somebody slightly angry,  to make somebody uncomfortable or unable to relax	His constant joking was beginning to annoy her.	10	9
+anniversary	​a date that is an exact number of years after the date of an important or special event	to celebrate your wedding anniversary	9	8
+ankle	enlarge imagethe joint connecting the foot to the leg;	She suffered a serious ankle injury in training.	8	7
+aircraft	any vehicle that can fly and carry goods or passengers	The aircraft was flown by a young American pilot.	6	5
+aid	money, food, etc. that is sent to help countries in difficult situations	humanitarian/food/medical aid	11	10
+agreement	a promise or a contract made with somebody	The agreement (= the document recording the agreement) was signed during a meeting at the UN.	9	8
+aggressive	angry, and behaving in a threatening way; ready to attack	He became increasingly aggressive as the evening wore on.	5	4
+agenda	a plan of things to be done, or problems to be addressed	In our company, quality is high on the agenda.	3	2
+agency	a business or an organization that provides a particular service especially when representing other businesses or organizations	She works for an advertising agency.	10	9
+afterwards	at a later time; after an event that has already been mentioned	Afterwards she was sorry for what she'd said.	7	6
+afford	"(usually used with can or could, especially in negative sentences and questions)
+if you say that you can’t afford to do something, you mean that you should not do it because it will cause problems for you if you do"	We cannot afford any more delays.	10	9
+admit	to agree, often unwillingly, that something is true	He admitted all his mistakes.	14	12
+admire	to respect somebody for what they have done or to respect their qualities	Actually, I greatly admire and respect him.	10	9
+actress	a woman who performs on the stage, on television or in films, especially as a profession	The Oscar-winning actress has taken a break from acting.	12	11
+acquire	to gain something by your own efforts, ability or behaviour	She has acquired a good knowledge of English.	16	14
+accuse	to say that somebody has done something wrong or is guilty of something	(formal) They stand accused of crimes against humanity.	12	10
+accompany	(formal) to travel or go somewhere with somebody/something	He was accompanied on the visit by his wife.	16	4
+accommodation	[uncountable] (British English) a place to live, work or stay in	We may have to provide alternative accommodation for you.	21	12
+academic	[usually before noun] connected with education, especially studying in schools and universities	She had a brilliant academic career.	14	13
+absolute	total and complete	‘You're wrong,’ she said with absolute certainty.	11	10
+absent	not in a place because of illness, etc.	He was absent from work for two weeks.	11	10
+absence	[uncountable, countable] the fact of somebody being away from a place where they are usually expected to be; the occasion or period of time when somebody is away	in somebody's absence The decision was made in my absence (= while I was not there)	10	9
+abroad	in or to a foreign country	to go/travel/live/study abroad	9	7
+above	at or to a higher place	Put it on the shelf above.	17	16
+about	a little more or less than; a little before or after	It costs about $10	13	12
+abortion	[uncountable] the deliberate ending of a pregnancy at an early stage	a woman’s right to abortion	15	14
+abolish	abolish something to officially end a law, a system or an institution	This tax should be abolished.	20	19
+able	able to do something	We're still able to get visas to come and go from Thailand.	20	19
+ability	ability to do something the fact that somebody/something is able to do something	People with the disease may lose their ability to communicate.	17	16
+ambassador	an official who lives in a foreign country as the senior representative there of their own country	the British Ambassador to Italy/in Rome	18	16
+ambitious	determined to be successful, rich, powerful, etc.	They were very ambitious for their children (= they wanted them to be successful).	21	20
+abandon	to leave somebody,especially somebody you are responsible for, with no intention of returning	abandon somebody The baby had been abandoned by its mother.	23	22
